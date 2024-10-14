@@ -1,6 +1,10 @@
 body {
-    background-color: grey;
+    background-color: #52525B;
     color: white;
+    font-family: "Merriweather", serif;
+    font-weight: 100;
+    font-style: normal;
+    
 }
 
 a {
@@ -9,7 +13,7 @@ a {
 }
 
 .form-control {
-    background-color: grey;
+    background-color: #3F3F46;
     color: white;
 }
 
